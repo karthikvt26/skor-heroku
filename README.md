@@ -15,5 +15,4 @@ Skor requires `DATABASE_CONNECTION_STRING` and `WEBHOOKURL` to connect to the ap
 
 ![alt text](./assets/HerokuPostgresCredential.jpg)
 
-[Read more](https://github.com/hasura/skor/#1-set-up-the-triggers) to setup triggers on the tables that we are interested in.
-
+[Read more](https://github.com/hasura/skor/#1-set-up-the-triggers) to setup triggers and start processing the events.
